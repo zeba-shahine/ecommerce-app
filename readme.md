@@ -1,4 +1,4 @@
-# Ecommerce App
+## Ecommerce App
 
 A full-stack ecommerce web application built using Spring Boot and React.
 
